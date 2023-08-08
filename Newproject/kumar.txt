@@ -1,1 +1,3 @@
 Hello are all doing great
+
+Changed date 08-08-2023. Just i had clarity about Git command to utilise better way
